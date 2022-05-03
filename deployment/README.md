@@ -1,5 +1,7 @@
 # ASSESSMENT PROJECT - ENSEMBLE MATRIX PVT LTD
 
+Please make your own branch of this repo before committing
+
 ## Requirements:
 1. Make a server that serves a REST model to classify the fashion MNIST dataset. 
 
